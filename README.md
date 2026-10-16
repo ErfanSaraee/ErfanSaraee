@@ -1,7 +1,12 @@
-# Hi there, I'm Erfan Saraee 👋
-### AI Backend Engineer | Agentic AI & LLM Systems Architect
+# Hi, I'm Erfan Saraee 👋
 
-I specialize in bridging the gap between raw AI prototypes and **production-ready, scalable backend architectures**. My focus lies in engineering autonomous multi-agent systems, production-grade RAG pipelines, and asynchronous microservices designed for high concurrency, low latency, and strict reliability.
+### Computer Science Undergraduate at IUST | Python Backend & LLM Applications
+
+I'm a fifth-semester Computer Science student at Iran University of Science and Technology (IUST), focused on Python backend development and practical LLM applications.
+
+I've studied machine learning and deep learning foundations, and I'm building hands-on projects involving retrieval-augmented generation (RAG), agent workflows, and AI-powered APIs.
+
+My goal is to turn what I learn into well-documented, testable, and reproducible software projects.
 
 ---
 
