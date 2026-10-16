@@ -1,4 +1,4 @@
-# Hi there, I'm [Erfan Saraee] 👋
+# Hi there, I'm Erfan Saraee 👋
 ### AI Backend Engineer | Agentic AI & LLM Systems Architect
 
 I specialize in bridging the gap between raw AI prototypes and **production-ready, scalable backend architectures**. My focus lies in engineering autonomous multi-agent systems, production-grade RAG pipelines, and asynchronous microservices designed for high concurrency, low latency, and strict reliability.
