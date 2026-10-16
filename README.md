@@ -169,6 +169,11 @@ For course-based projects and exercises, I aim to identify the original learning
 
 ## 📫 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erfan-saraee)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erfansaraee4102@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErfanSaraee)
+
+- **LinkedIn:** [linkedin.com/in/erfan-saraee](https://www.linkedin.com/in/erfan-saraee)
 - **Email:** [erfansaraee4102@gmail.com](mailto:erfansaraee4102@gmail.com)
 - **GitHub:** [github.com/ErfanSaraee](https://github.com/ErfanSaraee)
 - **University:** Iran University of Science and Technology (IUST)
