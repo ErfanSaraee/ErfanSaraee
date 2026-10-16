@@ -52,4 +52,4 @@ My goal is to turn what I learn into well-documented, testable, and reproducible
 
 ### 📫 Connect with Me
 * **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
-* **Email:** [your.email@gmail.com](mailto:erfansaraee4102@gmail.com)
+* **Email:** [erfansaraee4102@gmail.com](mailto:erfansaraee4102@gmail.com)
