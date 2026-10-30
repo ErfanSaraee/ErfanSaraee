@@ -11,7 +11,7 @@
 
 ## ⚡ About Me
 
-I am a **Computer Science student at Iran University of Science and Technology (IUST)** and an **AI Backend Engineer** passionate about building reliable, scalable, and production-ready AI systems.
+I am a **Computer Science student at Iran University of Science and Technology (IUST)** and an **AI Software Engineer** passionate about building reliable, scalable, and production-ready AI systems.
 
 My technical foundation started from the ground up: mastering **Python (OOP, Asyncio, Type Hinting)**, **Data Structures & Algorithms (DSA)**, and the **Mathematical Foundations of AI (Linear Algebra, Probability & Statistics, Optimization)** before advancing through **Machine Learning, Deep Learning, Large Language Models (LLMs), Vision-Language Models (VLMs), and Agentic AI Architecture**. Today, I focus on bridging multi-provider model orchestration (**OpenAI, Anthropic Claude, Google Gemini, Ollama, vLLM, Hugging Face**) with robust backend engineering (**FastAPI, Async SQLAlchemy, Alembic, PostgreSQL/pgvector, Docker, CI/CD**).
 
