@@ -1,6 +1,6 @@
 # Hi, I'm Erfan Saraee 👋
 
-### **AI Backend Engineer | Agentic AI, LLM/VLM Systems & Production MLOps**
+### **AI Software Engineer | Agentic AI, LLM/VLM Systems & Production MLOps**
 🎓 **B.Sc. in Computer Science (5th Semester) @ Iran University of Science and Technology (IUST)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erfan-saraee)
